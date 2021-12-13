@@ -1,16 +1,20 @@
 
 p {
     font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
 }
 
 h1 {
       font-family:Arial, Helvetica, sans-serif;
+      font-weight: 700;
 }
 
 h2 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
 }
 
 h3 {
     font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
 }
