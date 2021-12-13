@@ -35,3 +35,10 @@ li {
     font-size: 20px;
     background-color: rgb(247, 236, 236);
 }
+
+a {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 150;
+    font-size: 25px;
+    
+}
