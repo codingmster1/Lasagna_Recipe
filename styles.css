@@ -75,12 +75,14 @@ a {
 .box5
 {
     background-color: pink;
+    border: 2px solid rgb(197, 235, 235);
     width: 100%;
     display: block;
 }
 .box6
 {
     background-color: pink;
+    border: 2px solid rgb(197, 235, 235);
     width: 100%;
     display: block;
 }
