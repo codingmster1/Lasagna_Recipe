@@ -12,7 +12,7 @@ h1 {
       margin-right: auto;
       font-weight: 700;
       font-size: 45px;
-      background-color:rgb(238, 195, 211);
+      background-color:pink;
 }
 
 
@@ -20,7 +20,8 @@ h3 {
     font-family: cursive;
     font-weight: 700;
     font-size: 30px;
-    background-color: rgb(223, 121, 214);
+    background-color:pink;
+    
 }
 
 .center {
