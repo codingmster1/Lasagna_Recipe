@@ -21,7 +21,7 @@ h3 {
     font-weight: 700;
     font-size: 30px;
     background-color:pink;
-    
+    border: 2px solid rgb(198, 238, 221);
 }
 
 .center {
