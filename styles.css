@@ -7,15 +7,15 @@ p {
 }
 
 h1 {
-      font-family:Arial, Helvetica, sans-serif;
+      font-family: cursive;
       font-weight: 700;
       font-size: 45px;
-      background-color:rgb(228, 57, 122);
+      background-color:rgb(230, 106, 154);
 }
 
 
 h3 {
-    font-family:'Times New Roman', Times, serif;
+    font-family: cursive;
     font-weight: 700;
     font-size: 30px;
     background-color: rgb(201, 229, 236);
@@ -40,7 +40,7 @@ li {
 
 
 a {
-    font-family:'Times New Roman', Times, serif;
+    font-family:cursive;
     font-weight: 150;
     font-size: 25px;
     
